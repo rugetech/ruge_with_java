@@ -1,4 +1,4 @@
->>>><span style="color:red;", align="center"> Beginner Alert! Today as a part of learning, I created the simple code.</span>
+>>>><span align="center"> Beginner Alert! Today as a part of learning, I created the simple code.</span>
 # CrushApp Program  💻
 
 ## Description
